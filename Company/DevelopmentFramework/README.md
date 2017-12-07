@@ -1,4 +1,5 @@
 - MS Test
 - Auto Fac
 - Dapper
-- Common.Loggin
+- Common.Logging
+- Vue js
