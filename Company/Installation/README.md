@@ -23,9 +23,4 @@
 #Visua Code Extension
  
 
-#Most Used Resources
-- Jira
-- Jenkins
-- [Trello](https://trello.com/)
-
 

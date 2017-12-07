@@ -1,4 +1,4 @@
--MS Test
--Auto Fac
--Dapper
--Common.Loggin
+- MS Test
+- Auto Fac
+- Dapper
+- Common.Loggin
