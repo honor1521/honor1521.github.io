@@ -18,7 +18,7 @@
 - [Indent Guides](https://marketplace.visualstudio.com/items?itemName=SteveDowerMSFT.IndentGuides) 顯示垂直線在縮排的部分
 - [Code Metrices](https://marketplace.visualstudio.com/items?itemName=Elisha.CodeMetrices) 可以顯示程式碼的複雜度在 method 上
 - [Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
-- [Code Alignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment) 讓多個變數的 name and setvalue 可以對齊
+- [Code Alignment](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment) 讓多個變數的 name and setvalue 可以對齊. [How To](https://www.youtube.com/playlist?list=PL9CC5F8C836BD6BDF)
 
 #Visua Code Extension
  
