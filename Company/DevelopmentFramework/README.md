@@ -1,0 +1,4 @@
+-MS Test
+-Auto Fac
+-Dapper
+-Common.Loggin
