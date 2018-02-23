@@ -8,7 +8,7 @@ tagline:
     
 ## All Posts
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div class="panel panel-default">
   <div class="panel-body">
     <h3 class="media-heading"><a class="text-dblue" href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -36,17 +36,6 @@ tagline:
     {% endfor %}
   </div>
 </div>
-{% endfor %} {% if paginator.total_pages > 1 %}
-<ul class="pager">
-  {% if paginator.previous_page %}
-  <li class="previous"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Previous page</a>
-  </li>
-  {% endif %} 
-  {% if paginator.next_page %}
-  <li class="next"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next page &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+{% endfor %}
  
 
