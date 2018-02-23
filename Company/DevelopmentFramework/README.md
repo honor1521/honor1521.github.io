@@ -1,5 +1,0 @@
-- MS Test
-- Auto Fac
-- Dapper
-- Common.Logging
-- Vue js
